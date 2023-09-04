@@ -1,0 +1,9 @@
+{
+  "name": "net.piewvepsii.bscon",
+  "version": "0.1.0",
+  "displayName": "BSCon",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.unity.inputsystem": "1.5.1"
+  }
+}
